@@ -1,0 +1,50 @@
+html, body {
+  background-color: #f5f5f5;#ddd;
+  padding-top: 30px;
+}
+
+header {
+  background-color: #fff;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  height: 50px;
+  text-align: center;
+  border-bottom: 1px solid #b1b1b1;
+}
+
+header h3 {
+  line-height: 50px;
+  margin: 0;
+  font-weight: 100;
+  text-transform: uppercase;
+}
+
+.card {
+  margin: 20px;
+  cursor: pointer;
+  border: 1px solid #b1b1b1;
+}
+
+.title {
+  text-align: center;
+}
+
+.container {
+  background-color: #fff;
+  margin: 20px auto;
+  border: 1px solid #b1b1b1;
+  max-width: 800px;
+  border-radius: 2px;
+  min-height: 800px;
+  padding-top: 15px;
+}
+
+.time {
+  float:right;
+  width: 40;
+  border-radius: 2px;
+  border: 1px solid #ddd;
+  padding: 15px;
+}
